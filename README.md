@@ -28,4 +28,6 @@ also, i am a SWE intern at Real Biz Digital.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ernestnash&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestnash&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestnash&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
