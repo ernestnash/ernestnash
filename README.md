@@ -6,9 +6,9 @@ Thank you for visiting my profile 😊.
 
 ## ABOUT ME
 
-> Software Engineering intern at Real Biz Digital.
-> Code coach at CodeJIKA.com, where i have taught over 60 students on the Art of front-end Web Development.
-> Junior developer and student of Mathematics (Applied Mathematics) and Computer Science at the Technical University of Mombasa (TUM).
+> - Software Engineering intern at Real Biz Digital.
+> - Code coach at CodeJIKA.com, where i have taught over 60 students on the Art of front-end Web Development.
+> - Junior developer and student of Mathematics (Applied Mathematics) and Computer Science at the Technical University of Mombasa (TUM).
 
 ## STATS
 
