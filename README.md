@@ -1,13 +1,13 @@
 Hello,
-I go by **NASHON ERNEST**😃, 
+I go by **NASHON ERNEST**, 
 here you will find all my projects and repositories.
 Corrections on my projects and Repositories are highly welcome.
-Thank you for visiting my profile 😊.
+Thank you for visiting my profile.
 
 ## IN BRIEF
 
-> - Volunteer Code coach at CodeJIKA.com, where i have taught over 60 students on the Art of front-end Web Development.
-> - Junior developer and student of Mathematics (Applied Mathematics) and Computer Science at the Technical University of Mombasa (TUM).
+> - Software Engineer Intern at Digisoft Solutions Limited
+> - student of Mathematics and Computer Science at the Technical University of Mombasa (TUM).
 
 ### MORE ABOUT ME
 
