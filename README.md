@@ -7,7 +7,7 @@ Thank you for visiting my profile.
 ## IN BRIEF
 
 > - Software Engineer Intern at Digisoft Solutions Limited
-> - student of Mathematics and Computer Science at the Technical University of Mombasa (TUM).
+> - Student of Mathematics and Computer Science at the Technical University of Mombasa (TUM).
 
 ### MORE ABOUT ME
 
