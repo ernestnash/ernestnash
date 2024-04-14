@@ -18,3 +18,6 @@ I am a hardworking junior developer who is able to effectively self-manage durin
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=ernestnash&theme=blueberry_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+ 
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestnash&langs_count=10&theme=tokyonight)]()
+
