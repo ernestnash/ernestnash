@@ -6,7 +6,7 @@ Thank you for visiting my profile.
 
 ## IN BRIEF
 
-> - Software Engineer Intern at Digisoft Solutions Limited
+> - Software Engineer | Typescript/Javascript and PHP developer | Mobile App Developer
 > - Student of Mathematics and Computer Science at the Technical University of Mombasa (TUM).
 
 ### MORE ABOUT ME
