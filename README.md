@@ -6,6 +6,7 @@ Thank you for visiting my profile.
 
 ## IN BRIEF
 
+> - Founder @Myjonex[(https://myjonex.com)]
 > - Software Engineer | Typescript/Javascript and PHP developer | Mobile App Developer
 > - Student of Mathematics and Computer Science at the Technical University of Mombasa (TUM).
 
@@ -13,6 +14,10 @@ Thank you for visiting my profile.
 
 I am passionate about helping individuals and Companies achieve their dreams in technology by helping provide efficient, effective and affordable technological solutions that the Modern World is looking for Right now.
 I am a hardworking junior developer who is able to effectively self-manage during independent projects, as well as collaborate in a team setting.. I am also committed to utilizing my skills to further the mission of a company. I am self motivated and out to achieve. Furthermore, I am adept at handling multiple tasks on a daily basis competently.
+
+## MYJONEX
+
+[(https://myjonex.com/LogoHero.png]
 
 ## STATS
 
