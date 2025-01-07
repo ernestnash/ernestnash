@@ -6,7 +6,7 @@ Thank you for visiting my profile.
 
 ## IN BRIEF
 
-> - Founder @Myjonex[(https://myjonex.com)]
+> - Principal Co-Founder @Myjonex https://myjonex.com
 > - Software Engineer | Typescript/Javascript and PHP developer | Mobile App Developer
 > - Student of Mathematics and Computer Science at the Technical University of Mombasa (TUM).
 
@@ -17,7 +17,7 @@ I am a hardworking junior developer who is able to effectively self-manage durin
 
 ## MYJONEX
 
-[(https://myjonex.com/LogoHero.png]
+[![something](https://myjonex.com/LogoHero2.png)]()
 
 ## STATS
 
