@@ -5,7 +5,7 @@ Corrections on my projects and Repositories are highly welcome.
 Thank you for visiting my profile.
 
 ## IN BRIEF
-> - Founding Software Engineer @Myjonex https://myjonex.com
+> - Founding Software Engineer @axesoftltd https://axesoftltd.com
 > - Software Engineer | Typescript/Javascript and PHP developer | Mobile App Developer
 
 ### MORE ABOUT ME
