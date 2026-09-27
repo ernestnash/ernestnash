@@ -1,34 +1,68 @@
-Hello,
-I go by **NASHON ERNEST**, 
-here you will find all my projects and repositories.
-Corrections on my projects and Repositories are highly welcome.
-Thank you for visiting my profile.
+# Nashon Ernest
 
-## IN BRIEF
-> - Founding Software Engineer @axesoftltd and https://bizbora.com
-> - Software Engineer | Typescript/Javascript and PHP developer | Mobile App Developer
+**Backend-Leaning Full-Stack Engineer | B2B SaaS & ERP Systems | Python, Node.js, Java**
 
-### MORE ABOUT ME
+Founding engineer running two live B2B SaaS/ERP platforms end to end, from database schema to production. 4+ years building and operating backend systems: REST APIs, multi-tenant architecture, PostgreSQL/MongoDB data modeling, and payment integrations (M-Pesa, Stripe) built so a retried request can't double-charge anyone.
 
-I am passionate about helping individuals and Companies achieve their dreams in technology by helping provide efficient, effective and affordable technological solutions that the Modern World is looking for Right now.
-I am a hardworking junior developer who is able to effectively self-manage during independent projects, as well as collaborate in a team setting.. I am also committed to utilizing my skills to further the mission of a company. I am self motivated and out to achieve. Furthermore, I am adept at handling multiple tasks on a daily basis competently.
-
-### LANGUAGES AND TOOLS
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nashon-ernest) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iepshan) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nashpie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iepnash) 
-
-## STATS
- [![GitHub Streak](https://streak-stats.demolab.com?user=ernestnash&theme=blueberry_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestnash&layout=donut&langs_count=10&theme=transparent&hide_progress=true&hide_border=true&include_all_commits=true&count_private=true)]()
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- 🔭 Building **[KaziFlow](https://kaziflow.bizbora.com)** and **[BizBora](https://mini.bizbora.com)** as Founder & Lead Software Engineer at [BizBora Hub](https://bizbora.com)
+- 💼 Previously Founding Software Engineer at Axesoft Ltd — 15+ production systems delivered for external clients
+- 🌱 Extending production observability with Prometheus, Grafana, Loki, and OpenTelemetry
+- 🌍 Portfolio: [nashonernest.vercel.app](https://nashonernest.vercel.app)
+- 📫 eernestnnashon@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ernestnash&icon=7&color=0)](https://visitcount.itsvg.in)
 
+## Featured Projects
 
+**[KaziFlow](https://kaziflow.bizbora.com)** — Production B2B SaaS
+Backend for a CRM, invoicing, and accounting platform used by 8 businesses. Built the REST APIs, PostgreSQL schema, and Redis caching; deployed through Git-based CI/CD.
+`FastAPI` `PostgreSQL` `Redis` `Docker` `Northflank`
 
+**[BizBora Mini](https://mini.bizbora.com)** — Multi-Tenant Cloud ERP
+Tenant-aware inventory, sales, procurement, and accounting for 5 businesses across 8 stores, with tenant-level data isolation on shared infrastructure.
+`Next.js` `Express` `MongoDB`
 
+**[UremboApp](https://uremboapp.com)** — Salon Management Platform
+Booking, staff, and customer management with automated staff allocation to prevent scheduling conflicts, plus a SOAP-based SMS gateway for booking confirmations.
+`Django` `PostgreSQL` `Next.js`
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+---
+
+## GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ernestnash&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ernestnash)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestnash&layout=donut&langs_count=8&theme=default&hide_border=true&hide_progress=false&count_private=true)](https://github.com/ernestnash)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nashon-ernest)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nashonernest.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eernestnnashon@gmail.com)
