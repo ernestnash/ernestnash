@@ -1,18 +1,22 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Nashon Ernest, backend-leaning full-stack engineer in Nairobi, shown beside an ASCII portrait in blue and orange" width="100%">
-</p>
+<img src="assets/portrait.svg" align="left" width="360" alt="ASCII portrait of Nashon Ernest">
 
-**Backend-Leaning Full-Stack Engineer | B2B SaaS & ERP Systems | Python, Node.js**
+# Nashon Ernest
 
-Founding engineer running two live B2B SaaS/ERP platforms end to end, from database schema to production. 4+ years building and operating backend systems: REST APIs, multi-tenant architecture, PostgreSQL/MongoDB data modeling, and payment integrations (M-Pesa, Stripe) built so a retried request can't double-charge anyone.
+**Backend-leaning full-stack engineer | B2B SaaS & ERP systems | Python, Node.js**
+
+I'm a software engineer based in Nairobi, Kenya, with 4+ years of experience, most of it on the backend. I'm the founder of [BizBora Hub](https://bizbora.com), where I build and run two live B2B SaaS/ERP products, [KaziFlow](https://kaziflow.bizbora.com) and [BizBora](https://mini.bizbora.com), from the database schema all the way to production.
+
+Before BizBora Hub I was the founding software engineer at Axesoft Ltd, where I delivered 15+ production systems for external clients.
+
+Day to day that means REST APIs, multi-tenant architecture, PostgreSQL and MongoDB data modeling, and payment integrations (M-Pesa, Stripe) built so a retried request can't double-charge anyone.
+
+I studied Mathematics and Computer Science at the Technical University of Mombasa, and I'm completing an MBA and a Master in AI for Business at ENEB. Next on my list is extending production observability with Prometheus, Grafana, Loki, and OpenTelemetry.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nashonernest.vercel.app-ff8a2b?style=flat-square&logo=vercel&logoColor=0a0f1a)](https://nashonernest.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nashon--ernest-1f6feb?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nashon-ernest)
 [![Email](https://img.shields.io/badge/Email-eernestnnashon@gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white)](mailto:eernestnnashon@gmail.com)
 
-- **Now:** building **[KaziFlow](https://kaziflow.bizbora.com)** and **[BizBora](https://mini.bizbora.com)** as Founder & Lead Software Engineer at [BizBora Hub](https://bizbora.com)
-- **Before:** Founding Software Engineer at Axesoft Ltd, with 15+ production systems delivered for external clients
-- **Next:** extending production observability with Prometheus, Grafana, Loki, and OpenTelemetry
+<br clear="left">
 
 ## Featured Projects
 
