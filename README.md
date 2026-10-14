@@ -2,7 +2,7 @@
   <img src="assets/hero.svg" alt="Nashon Ernest, backend-leaning full-stack engineer in Nairobi, shown beside an ASCII portrait in blue and orange" width="100%">
 </p>
 
-**Backend-Leaning Full-Stack Engineer | B2B SaaS & ERP Systems | Python, Node.js, Java**
+**Backend-Leaning Full-Stack Engineer | B2B SaaS & ERP Systems | Python, Node.js**
 
 Founding engineer running two live B2B SaaS/ERP platforms end to end, from database schema to production. 4+ years building and operating backend systems: REST APIs, multi-tenant architecture, PostgreSQL/MongoDB data modeling, and payment integrations (M-Pesa, Stripe) built so a retried request can't double-charge anyone.
 
@@ -28,7 +28,6 @@ Founding engineer running two live B2B SaaS/ERP platforms end to end, from datab
 ![Python](https://img.shields.io/badge/Python-1f6feb?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1f6feb?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-1f6feb?style=flat-square&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1f6feb?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1f6feb?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1f6feb?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-1f6feb?style=flat-square&logo=express&logoColor=white)
